@@ -1,0 +1,8 @@
+body,
+html,
+#root {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+}
